@@ -46,12 +46,14 @@ Os relatórios foram entregues compactados em `.zip`.
 
 ```
 pequod-desafio/
-├── dashboard/              → 📸 Screenshots da Dashboard
-├── notebook/               → desafio_pequod.ipynb
-├── pdfs_amostra/           → Relatorio_XXXXXXX.pdf (exemplos)
-├── bases/                   → base_desafio_limpa.xlsx, Base desafio.xlsx
-├── zip/                    → Relatorios_PDF.zip
-└── README.md               → Este arquivo
+├── base/ # Base de dados utilizada no projeto
+├── dashboard/ # Arquivos e imagens da dashboard
+├── notebook/ # Notebook e logo utilizado nos relatórios em PDF
+│ ├── desafio_pequod.ipynb
+│ └── logo_pequod.png
+├── pdfs_amostra/ # Exemplos de PDFs gerados
+├── zip/ # Arquivo .zip com todos os PDFs
+└── README.md # Documentação do projeto
 ```
 
 
@@ -111,6 +113,13 @@ Todos os relatórios estão compactados em um único arquivo `.zip`.
 
 1. Abra o arquivo `.pbix`
 2. A base de dados `base/base_desafio_limpa.xlsx` está organizada para conectar diretamente.
+
+
+## 🧾 Geração dos Relatórios em PDF
+
+No notebook/scritp responsável pela automação dos relatórios em PDF, é utilizado o arquivo `logo_pequod.png` para padronização visual dos relatórios.
+
+✔️ Importante: o arquivo `logo_pequod.png` deve estar dentro da pasta `/notebook` para que o script funcione corretamente.
 
 ---
 
