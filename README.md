@@ -126,7 +126,7 @@ No notebook/scritp responsável pela automação dos relatórios em PDF, é util
 ## 🚀 Resultado Final
 
 - 🔗 [Link do Power BI Publicado](https://app.powerbi.com/view?r=eyJrIjoiNTMzODkyNjYtZDAyNy00MTY3LWJiNTYtZDA1MjE2MDQ5ZWY4IiwidCI6ImYxZjVmZTNjLTA5MzQtNDE3Yy1hMDMzLWU0ZGExYzk2ZmNiNCJ9)
-- 🔗 [Repositório no GitHub](#)
+- 🔗 [Repositório no GitHub](https://github.com/gilmar-csantos/desafio_pequod)
 
 ---
 
