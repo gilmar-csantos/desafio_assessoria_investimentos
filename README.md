@@ -78,7 +78,7 @@ O dashboard foi construído para responder às principais perguntas de negócio,
   - **KPIs:** Indicadores chave como Receita Total, Receita Média por Cliente, Nº de Clientes Private, Receita Private, Receita Média por Assessor e Total de Assessores.
 
 <p align="center">
-  <img src="dashboard/dashboard_exemplo.png" width="700"/>
+  <img src="dashboard/dashboard_emplo.png" width="700"/>
 </p>
 
 ---
