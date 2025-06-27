@@ -1,7 +1,6 @@
-# 🏦 Desafio de Análise de Dados — Pequod Investimentos
-Desafio para a vaga de Assistente de Gestão da Pequod Investimentos
+# 🏦 Desafio de Automação e Análise de Dados — Assessoria de Investimentos
 
-Este repositório contém a solução para o desafio técnico proposto pela **Pequod Investimentos**, com foco em **análise de dados**, **automação** e **visualização de dados**.
+Este projeto foi desenvolvido como parte de um processo seletivo, com o objetivo de simular atividades de rotina em uma assessoria de investimentos. Os dados utilizados são fictícios e o desafio visava testar habilidades técnicas em **análise de dados**, **automação** e **visualização**.
 
 ## 📑 Descrição do Desafio
 
@@ -45,12 +44,10 @@ Os relatórios foram entregues compactados em `.zip`.
 ## 📂 Estrutura do Projeto
 
 ```
-pequod-desafio/
+desafio_assessoria_investimentos/
 ├── base/ # Base de dados utilizada no projeto
 ├── dashboard/ # Arquivos e imagens da dashboard
-├── notebook/ # Notebook e logo utilizado nos relatórios em PDF
-│ ├── desafio_pequod.ipynb
-│ └── logo_pequod.png
+├── notebook/ # Código em Python no Jupyter
 ├── pdfs_amostra/ # Exemplos de PDFs gerados
 ├── zip/ # Arquivo .zip com todos os PDFs
 └── README.md # Documentação do projeto
@@ -106,7 +103,7 @@ Todos os relatórios estão compactados em um único arquivo `.zip`.
 
 1. Clone este repositório.
 2. Instale as dependências necessárias (Pandas, FPDF, Matplotlib, etc.).
-3. Abra o arquivo `notebook/desafio_pequod.ipynb` no Jupyter ou VS Code.
+3. Abra o arquivo `notebook/desafio.ipynb` no Jupyter ou VS Code.
 4. Execute as células para gerar as análises e os PDFs.
 
 ### ✅ Dashboard Power BI
@@ -114,19 +111,12 @@ Todos os relatórios estão compactados em um único arquivo `.zip`.
 1. Abra o arquivo `.pbix`
 2. A base de dados `base/base_desafio_limpa.xlsx` está organizada para conectar diretamente.
 
-
-## 🧾 Geração dos Relatórios em PDF
-
-No notebook/scritp responsável pela automação dos relatórios em PDF, é utilizado o arquivo `logo_pequod.png` para padronização visual dos relatórios.
-
-✔️ Importante: o arquivo `logo_pequod.png` deve estar dentro da pasta `/notebook` para que o script funcione corretamente.
-
 ---
 
 ## 🚀 Resultado Final
 
-- 🔗 [Link do Power BI Publicado](https://app.powerbi.com/view?r=eyJrIjoiNTMzODkyNjYtZDAyNy00MTY3LWJiNTYtZDA1MjE2MDQ5ZWY4IiwidCI6ImYxZjVmZTNjLTA5MzQtNDE3Yy1hMDMzLWU0ZGExYzk2ZmNiNCJ9)
-- 🔗 [Repositório no GitHub](https://github.com/gilmar-csantos/desafio_pequod)
+- 🔗 [Link do Power BI Publicado](https://app.powerbi.com/view?r=eyJrIjoiM2E4NWI5YTYtOTFjYy00ODc4LWJiYmItNDQ3ZGU0OWQxZDU5IiwidCI6ImYxZjVmZTNjLTA5MzQtNDE3Yy1hMDMzLWU0ZGExYzk2ZmNiNCJ9)
+- 🔗 [Repositório no GitHub](https://github.com/gilmar-csantos/desafio_assessoria_investimentos)
 
 ---
 
